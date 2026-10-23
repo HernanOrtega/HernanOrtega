@@ -32,4 +32,4 @@ Currently building scalable solutions, automating data workflows, and exploring 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hernán-ortega-a5a455303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hern%C3%A1n-ortega-a5a455303/])
